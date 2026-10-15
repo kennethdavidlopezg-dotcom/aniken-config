@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.1.0",
-    "build": 2,
-    "notes": "Primera versión con actualizaciones dentro de la app: configuración remota firmada, reproductor con AniSkip, respaldo en TioAnime, recomendaciones de series y películas y acceso directo con imagen a pantalla completa.",
+    "version": "1.2.0",
+    "build": 3,
+    "notes": "Ajustes renovados con la actualización a la vista y descarga desde su tarjeta, el reproductor pone al día tu seguimiento al empezar un episodio más adelante, resumen del mes o del año para compartir, fichas teñidas con los colores de la portada, elegir entre tus fuentes o Crunchyroll, compartir el APK desde Ajustes y guía de bienvenida.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-arm64-v8a.apk",
-        "sha256": "782d67acc3e0dcd12d2922c72bd9924257dc6ed7ee182c4db28ceadb9ebebf88"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.2.0/aniken-1.2.0-arm64-v8a.apk",
+        "sha256": "b0f34c9957713ea640675399d3c51217d7bccdebf9a47821daacce7efb972513"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-armeabi-v7a.apk",
-        "sha256": "b47efd3495f3e6274976f464455128df1a7882854afdad3753c24bcfdae940d2"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.2.0/aniken-1.2.0-armeabi-v7a.apk",
+        "sha256": "73e4880b17c7af45f9d3918998e6262a18b351c99ea474f1892a5205fd2ee566"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-x86_64.apk",
-        "sha256": "78c247135ca0b7e94b8276e004586e0c8129f7029a199a6918d138763ea9b6be"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.2.0/aniken-1.2.0-x86_64.apk",
+        "sha256": "dd44c2259b8f787368290150d32c090b5ea6e1bb30f9390e1b06f18fb2e7ec57"
       }
     }
   }
