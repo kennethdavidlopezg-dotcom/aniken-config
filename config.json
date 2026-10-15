@@ -1,0 +1,11 @@
+{
+  "revision": 1,
+  "domains": {
+    "jkanime": "jkanime.net",
+    "tioanime": "tioanime.com"
+  },
+  "backupSources": true,
+  "aniskip": true,
+  "disabledServers": [],
+  "patterns": {}
+}
