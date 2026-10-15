@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -7,5 +7,24 @@
   "backupSources": true,
   "aniskip": true,
   "disabledServers": [],
-  "patterns": {}
+  "patterns": {},
+  "update": {
+    "version": "1.1.0",
+    "build": 2,
+    "notes": "Primera versión con actualizaciones dentro de la app: configuración remota firmada, reproductor con AniSkip, respaldo en TioAnime, recomendaciones de series y películas y acceso directo con imagen a pantalla completa.",
+    "assets": {
+      "arm64-v8a": {
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-arm64-v8a.apk",
+        "sha256": "782d67acc3e0dcd12d2922c72bd9924257dc6ed7ee182c4db28ceadb9ebebf88"
+      },
+      "armeabi-v7a": {
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-armeabi-v7a.apk",
+        "sha256": "b47efd3495f3e6274976f464455128df1a7882854afdad3753c24bcfdae940d2"
+      },
+      "x86_64": {
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.1.0/C:\\Users\\elmej\\Pictures\\Apps\\aniken\\build\\app\\outputs\\flutter-apk\\aniken-1.1.0-x86_64.apk",
+        "sha256": "78c247135ca0b7e94b8276e004586e0c8129f7029a199a6918d138763ea9b6be"
+      }
+    }
+  }
 }
