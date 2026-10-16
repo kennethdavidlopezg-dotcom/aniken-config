@@ -1,5 +1,5 @@
 {
-  "revision": 6,
+  "revision": 7,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.4.1",
-    "build": 7,
-    "notes": "- Más estable: los fallos inesperados quedan en el registro de errores (Ajustes → Opciones de desarrollador) para poder arreglarlos.\n- Conexiones más rápidas y menos consumo al reutilizar la red entre pantallas.\n- Fichas que se actualizan más rápido en catálogos grandes.\n- Las actualizaciones de la app vuelven a avisar al publicarse una versión nueva.",
+    "version": "1.4.2",
+    "build": 8,
+    "notes": "- Más animaciones: la barra inferior desliza su píldora, la estrella de favorito da un salto y los contadores de Inicio ruedan al avanzar.\n- Las portadas de «Sigues viendo», la cola y la estantería de manga vuelan hasta la ficha al abrirla.\n- Listas vivas: las obras y listas entran y salen plegándose; las descargas avanzan suaves.\n- Transiciones entre pantallas de Android moderno, con el gesto atrás predictivo.\n- Si tienes activado «Quitar animaciones» en Android, Aniken lo respeta.\n- Nuevo «Apoya Aniken» en Ajustes: la app es gratis y sin anuncios, y se aceptan donaciones.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.1/aniken-1.4.1-arm64-v8a.apk",
-        "sha256": "da99878ba309d56226b0b53c9c7b32eeffbc85dc2e905072193c98d1ff526814"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.2/aniken-1.4.2-arm64-v8a.apk",
+        "sha256": "43318024dfcbc5a4d4e3e1be8f28cebed2834755bff9b297109c25b2dd206f41"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.1/aniken-1.4.1-armeabi-v7a.apk",
-        "sha256": "14ec64e21d12f1a94d386b5ff153d6990e117a4623000fe0dc155c1680f6e38d"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.2/aniken-1.4.2-armeabi-v7a.apk",
+        "sha256": "bc722fe63eca591f6a21ebcba4ef29c817330909cef0a1c21184180e1140a938"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.1/aniken-1.4.1-x86_64.apk",
-        "sha256": "d1bdae9526ba519a42c80de9e1ae65a577152af85d9bf9adabb07de088deee33"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.4.2/aniken-1.4.2-x86_64.apk",
+        "sha256": "43a1159f1a095658965af9192119ef07c307d3cbd245ad057f6a9e0c528376e0"
       }
     }
   }
