@@ -1,5 +1,5 @@
 {
-  "revision": 8,
+  "revision": 9,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.5.0",
-    "build": 9,
-    "notes": "- Aniken ya está también en inglés: elige el idioma en Ajustes → Apariencia (o deja el del sistema).\n- Nuevo «Próximamente» en Inicio: cuando AniList anuncia una temporada, película u OVA de un anime que sigues, se añade sola a su ficha, te avisamos y puedes ver su sinopsis, estudio y fecha de estreno.\n- «¿Lo retomas?»: si llevas tres semanas sin avanzar algo que estás viendo, te lo recordamos en Inicio y con un aviso semanal (puedes desactivarlo en Ajustes).\n- Al terminar una obra, comparte su tarjeta con la portada, tus episodios, el tiempo que le dedicaste y tu nota.",
+    "version": "1.6.0",
+    "build": 10,
+    "notes": "- Doblaje: en los episodios elige el audio Subtitulado, Latino (si JKAnime lo tiene) o Castellano, que se abre en la app de Crunchyroll.\n- Fuente por ficha: si un anime está incompleto en JKAnime, cambia a TioAnime y la lista, las partes y sus episodios salen de allí.\n- Las partes de cada anime coinciden con tu ficha: lo que falte en la web aparece con aviso y lo que tenga de más se añade (sin doblajes ni resúmenes), con opción de deshacer.\n- Las películas de una franquicia se añaden como ficha propia, sin duplicar las que ya tienes, y las películas de animación se pueden ver en la app.\n- Comparte cualquier anime como imagen con su portada, su nombre y una nota tuya.\n- Nuevo icono, «Dónde ver» guardado en el móvil, recarga tirando hacia abajo en la ficha y menos errores al consultar AniList.\n- Al abrir la app se pide tu nombre de perfil y se avisa de los datos que se envían al creador.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.5.0/aniken-1.5.0-arm64-v8a.apk",
-        "sha256": "40745614e07ffa740c2d90c79e95bd5cf7564a8966cface6c01038e8f8ac9faf"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-arm64-v8a.apk",
+        "sha256": "f478b119defa31f6b4d970cdcf3f7fe56bbce4047e468d932f1cdf183564f492"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.5.0/aniken-1.5.0-armeabi-v7a.apk",
-        "sha256": "6e4fd3bca64e7f06edc816bfee2b5a3a9fe5abd2db2e5cc51f66331d76255a63"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-armeabi-v7a.apk",
+        "sha256": "1b983513087fc943b6e32ecc73f8dfd175c4a755ec8eacad6471ea423712b689"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.5.0/aniken-1.5.0-x86_64.apk",
-        "sha256": "57509b457ae234ea9fbf41ebdf600bbcf6d1957fa4c79bcaff1e6d7de3017c26"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-x86_64.apk",
+        "sha256": "7594af136d8f81b90e14db183a3aaa7a7733e0e1437ca34225c91b4fb85ff74f"
       }
     }
   }
