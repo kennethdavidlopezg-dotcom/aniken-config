@@ -1,5 +1,5 @@
 {
-  "revision": 10,
+  "revision": 11,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.7.0",
-    "build": 11,
-    "notes": "- Nuevo en Inicio: «Sigue la historia en el manga», con el manga de tus animes que va por delante (terminado o con más de 100 capítulos).\n- El castellano abre la serie en la app de Crunchyroll, y Netflix también se abre en su app desde «Dónde ver».\n- Las películas de animación se ven aunque su título esté en español: se buscan con su nombre original. Las películas de una franquicia van como parte del anime.\n- Las partes del anime se extraen mejor: se reconocen aunque cambie el final del título y se añaden aunque falle alguna consulta.\n- Al anunciarse contenido nuevo se añade su bloque sin tocar lo que ya habías visto.\n- Más estable: los servidores que se quedan cargando se saltan, se recuerda el que funcionó en cada anime y se avisa si una web deja de leerse.\n- Más rápida y con menos datos: copias locales en su propia base y el catálogo solo se sube si cambió.",
+    "version": "1.7.1",
+    "build": 12,
+    "notes": "- Tus fichas se ponen al día solas, poco a poco y sin avisar: partes nuevas y episodios en emisión, sin tocar lo que ya has visto. Puedes desactivarlo en Ajustes → «Actualizar fichas solas».\n- Más estable: si una web de episodios deja de funcionar se puede apagar en remoto y la app usa la otra sin que hagas nada.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-arm64-v8a.apk",
-        "sha256": "38d23953452c9de43fbac676fc0b7a9df68747c52738223451ed15bc974d1fa7"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-arm64-v8a.apk",
+        "sha256": "0178cd4152cfbac397048b36dee4f267ec69172f202d78b3498470871b5c8987"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-armeabi-v7a.apk",
-        "sha256": "25dccdd5123c45441f4ceaec9419c95adc7c8f953f375c2b52d7f15cdfe75757"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-armeabi-v7a.apk",
+        "sha256": "7051e3030f93ac376bf31983fa3cf0cec40748ea97e18d36a2b5919fe946d08d"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-x86_64.apk",
-        "sha256": "77766529c1a71ca7084a7bdf17d5771235b560a97814f36422a0eafc29902cb7"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-x86_64.apk",
+        "sha256": "a507b41bbe9cb2c8af29bfeb69e046b4f0d08cf9450716f9b7570f7404fdfdda"
       }
     }
   }
