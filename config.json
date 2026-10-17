@@ -1,5 +1,5 @@
 {
-  "revision": 9,
+  "revision": 10,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.6.0",
-    "build": 10,
-    "notes": "- Doblaje: en los episodios elige el audio Subtitulado, Latino (si JKAnime lo tiene) o Castellano, que se abre en la app de Crunchyroll.\n- Fuente por ficha: si un anime está incompleto en JKAnime, cambia a TioAnime y la lista, las partes y sus episodios salen de allí.\n- Las partes de cada anime coinciden con tu ficha: lo que falte en la web aparece con aviso y lo que tenga de más se añade (sin doblajes ni resúmenes), con opción de deshacer.\n- Las películas de una franquicia se añaden como ficha propia, sin duplicar las que ya tienes, y las películas de animación se pueden ver en la app.\n- Comparte cualquier anime como imagen con su portada, su nombre y una nota tuya.\n- Nuevo icono, «Dónde ver» guardado en el móvil, recarga tirando hacia abajo en la ficha y menos errores al consultar AniList.\n- Al abrir la app se pide tu nombre de perfil y se avisa de los datos que se envían al creador.",
+    "version": "1.7.0",
+    "build": 11,
+    "notes": "- Nuevo en Inicio: «Sigue la historia en el manga», con el manga de tus animes que va por delante (terminado o con más de 100 capítulos).\n- El castellano abre la serie en la app de Crunchyroll, y Netflix también se abre en su app desde «Dónde ver».\n- Las películas de animación se ven aunque su título esté en español: se buscan con su nombre original. Las películas de una franquicia van como parte del anime.\n- Las partes del anime se extraen mejor: se reconocen aunque cambie el final del título y se añaden aunque falle alguna consulta.\n- Al anunciarse contenido nuevo se añade su bloque sin tocar lo que ya habías visto.\n- Más estable: los servidores que se quedan cargando se saltan, se recuerda el que funcionó en cada anime y se avisa si una web deja de leerse.\n- Más rápida y con menos datos: copias locales en su propia base y el catálogo solo se sube si cambió.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-arm64-v8a.apk",
-        "sha256": "f478b119defa31f6b4d970cdcf3f7fe56bbce4047e468d932f1cdf183564f492"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-arm64-v8a.apk",
+        "sha256": "38d23953452c9de43fbac676fc0b7a9df68747c52738223451ed15bc974d1fa7"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-armeabi-v7a.apk",
-        "sha256": "1b983513087fc943b6e32ecc73f8dfd175c4a755ec8eacad6471ea423712b689"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-armeabi-v7a.apk",
+        "sha256": "25dccdd5123c45441f4ceaec9419c95adc7c8f953f375c2b52d7f15cdfe75757"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.6.0/aniken-1.6.0-x86_64.apk",
-        "sha256": "7594af136d8f81b90e14db183a3aaa7a7733e0e1437ca34225c91b4fb85ff74f"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.0/aniken-1.7.0-x86_64.apk",
+        "sha256": "77766529c1a71ca7084a7bdf17d5771235b560a97814f36422a0eafc29902cb7"
       }
     }
   }
