@@ -1,5 +1,5 @@
 {
-  "revision": 11,
+  "revision": 12,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.7.1",
-    "build": 12,
-    "notes": "- Tus fichas se ponen al día solas, poco a poco y sin avisar: partes nuevas y episodios en emisión, sin tocar lo que ya has visto. Puedes desactivarlo en Ajustes → «Actualizar fichas solas».\n- Más estable: si una web de episodios deja de funcionar se puede apagar en remoto y la app usa la otra sin que hagas nada.",
+    "version": "1.7.2",
+    "build": 13,
+    "notes": "- Las actualizaciones de la app se detectan nada más abrirla, y «Más tarde» ya no oculta versiones más nuevas.\n- Menos avisos: las fichas solo avisan al ponerse al día si hay contenido nuevo (partes o episodios).\n- En el reproductor, si «Saltar intro» no acierta, desliza el botón a la derecha para quitarlo.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-arm64-v8a.apk",
-        "sha256": "0178cd4152cfbac397048b36dee4f267ec69172f202d78b3498470871b5c8987"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.2/aniken-1.7.2-arm64-v8a.apk",
+        "sha256": "00802c0d77e71dbf0ce2fe5a441662070110ebc3ed93c2282297336a0e741058"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-armeabi-v7a.apk",
-        "sha256": "7051e3030f93ac376bf31983fa3cf0cec40748ea97e18d36a2b5919fe946d08d"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.2/aniken-1.7.2-armeabi-v7a.apk",
+        "sha256": "6a999a2c2482bd4362c719220bfd56c8a5c2cdc52d03c25d3e6b45b0cd0be462"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.1/aniken-1.7.1-x86_64.apk",
-        "sha256": "a507b41bbe9cb2c8af29bfeb69e046b4f0d08cf9450716f9b7570f7404fdfdda"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.2/aniken-1.7.2-x86_64.apk",
+        "sha256": "c5f2948953318b95ae3f021d568939598c2a1fe22e89d5ac7939f9318caafb3c"
       }
     }
   }
