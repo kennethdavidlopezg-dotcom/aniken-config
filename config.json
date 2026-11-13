@@ -1,5 +1,5 @@
 {
-  "revision": 14,
+  "revision": 15,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -15,15 +15,15 @@
     "assets": {
       "arm64-v8a": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-arm64-v8a.apk",
-        "sha256": "fad10cae181edb2234dc94c74effa29045e9c2a0d0a2f3ee02bd5b2631d6b82c"
+        "sha256": "9b1432b3929b7c7137d03c807763877262b4a3614723bb76c52fc727e097c832"
       },
       "armeabi-v7a": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-armeabi-v7a.apk",
-        "sha256": "7f7ee191cf3e50b339a80a9de33cd69c717baa039f188a9826758774afc37977"
+        "sha256": "fe1d58a9c4fddfbe303e0c90cf4e0278d6e70eb861119a1fa61cd688776e4a8f"
       },
       "x86_64": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-x86_64.apk",
-        "sha256": "c108f36ffdd07992fb4a9901c6132be4f0670811c59084656f7beed64a8a7c5b"
+        "sha256": "12c15659a277a4c521eb9b3b954af5fac930838d7c8967008d4c196750d90098"
       }
     }
   }
