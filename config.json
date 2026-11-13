@@ -1,5 +1,5 @@
 {
-  "revision": 15,
+  "revision": 16,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -10,20 +10,20 @@
   "patterns": {},
   "update": {
     "version": "1.7.4",
-    "build": 15,
+    "build": 2015,
     "notes": "- Actualizar todas las fichas ya no borra ni deshace lo que añadas o edites mientras tanto.\n- Si una ficha guardada se daña, el resto del catálogo se carga igual y no se pierde nada.\n- Tus listas ya no pueden desaparecer si falla su lectura.\n- La comprobación de estrenos en segundo plano guarda sobre la marcha y la copia de Google ya no se pasa de tamaño.\n- Descargas y actualizaciones más fluidas: la app no se traba al comprobar el archivo ni si el servidor deja de responder.\n- Avisos de estreno más fiables tras actualizar la app, y el widget y la ventana flotante también en inglés.",
     "assets": {
       "arm64-v8a": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-arm64-v8a.apk",
-        "sha256": "9b1432b3929b7c7137d03c807763877262b4a3614723bb76c52fc727e097c832"
+        "sha256": "50225c6e97ea84e8202d54cbe57245d22d588028c8e3a2b910fe9716dad29ff1"
       },
       "armeabi-v7a": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-armeabi-v7a.apk",
-        "sha256": "fe1d58a9c4fddfbe303e0c90cf4e0278d6e70eb861119a1fa61cd688776e4a8f"
+        "sha256": "f44ae7e9403812e1eb49744530d7a8a74f6028c0adc14e6726180bb43ee9d2e2"
       },
       "x86_64": {
         "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.7.4/aniken-1.7.4-x86_64.apk",
-        "sha256": "12c15659a277a4c521eb9b3b954af5fac930838d7c8967008d4c196750d90098"
+        "sha256": "41107525e57f70c92ac4cdb4c2e0a587fcc9af52907d67c60c6c7cb79d4fa273"
       }
     }
   }
