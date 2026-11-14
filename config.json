@@ -1,5 +1,5 @@
 {
-  "revision": 19,
+  "revision": 20,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.8.2",
-    "build": 2018,
-    "notes": "- Nuevo botón «Reparto» en el reproductor: pausa el capítulo y te enseña los personajes de la temporada que ves, con foto, papel y actor de voz, sin destripes.\n- Los tráileres de «Más información» se abren en el navegador de Aniken en lugar de la app de YouTube.",
+    "version": "1.8.3",
+    "build": 2019,
+    "notes": "- Arreglado: en Inicio ya no aparece una copia borrosa de la hora y los iconos de la barra de estado.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-arm64-v8a.apk",
-        "sha256": "444798d18b7e9001a2daed3938fed4a016e2104e83ac86f4df502ecf233c8ddd"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.3/aniken-1.8.3-arm64-v8a.apk",
+        "sha256": "898a61b8879acfbc24502d029a37ce029c38a5c2ce32154239cdd902f54bfa62"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-armeabi-v7a.apk",
-        "sha256": "6ea2d811fa4877713dd553d84a0b1e7c27795535d34320f68d644a594e9371e4"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.3/aniken-1.8.3-armeabi-v7a.apk",
+        "sha256": "9e77866180eb9f0725957248a28425317d761e35143553f0adbd12c6f1df8c99"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-x86_64.apk",
-        "sha256": "085c3ff30138a6ec9a6bc06581bd21e486edc62b3dfe3ce344de5c42e7999891"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.3/aniken-1.8.3-x86_64.apk",
+        "sha256": "d9f8398c1b19024f685dd847131015139dd90f342f68ad7713d5f3d84f4aba43"
       }
     }
   }
