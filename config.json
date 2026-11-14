@@ -1,5 +1,5 @@
 {
-  "revision": 17,
+  "revision": 18,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.8.0",
-    "build": 2016,
-    "notes": "- Selección múltiple en «Tu colección»: mantén pulsada una portada para marcar varias y cambiarles el estado, añadirlas a una lista, etiquetarlas, ocultarlas o eliminarlas de una vez (con deshacer).\n- Bloqueo con PIN o huella: en Ajustes › Privacidad puedes pedir el PIN o la huella al abrir Aniken.\n- Fichas ocultas: no salen en Inicio, listas, calendario ni estadísticas hasta que las muestras con tu PIN o huella.\n- «Más información» al final de la ficha de los animes: tráiler y estudio de cada temporada o película (se abre en la que vas) y sus personajes.",
+    "version": "1.8.1",
+    "build": 2017,
+    "notes": "- «Más información» de la ficha ya carga siempre y en un par de segundos, con el tráiler y el estudio de cada temporada o película.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.0/aniken-1.8.0-arm64-v8a.apk",
-        "sha256": "c5597ef2823eb1c4f85f5db9e34718886ad048a470152bfc41bac245f0021a95"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-arm64-v8a.apk",
+        "sha256": "2a0f421fc90b7a4a301e4ace01203b61fed76858fe3fc5e28552208ad4754634"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.0/aniken-1.8.0-armeabi-v7a.apk",
-        "sha256": "49a8a230f073c450901dcac713d8f278f125db541caffef4edab5485f10f5198"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-armeabi-v7a.apk",
+        "sha256": "3a3956f50d442d65cb327a305f1aba504644b5826867456b6a14619519a771be"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.0/aniken-1.8.0-x86_64.apk",
-        "sha256": "b18f32467a36347571d099ad247d793d1945c3574a544eacfe44a957f76a8f53"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-x86_64.apk",
+        "sha256": "34677267b3ad1e5c3d3908dc515812826fdc59e3301b6bb7b2a2481d30ee5762"
       }
     }
   }
