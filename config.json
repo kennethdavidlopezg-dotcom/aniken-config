@@ -1,5 +1,5 @@
 {
-  "revision": 18,
+  "revision": 19,
   "domains": {
     "jkanime": "jkanime.net",
     "tioanime": "tioanime.com"
@@ -9,21 +9,21 @@
   "disabledServers": [],
   "patterns": {},
   "update": {
-    "version": "1.8.1",
-    "build": 2017,
-    "notes": "- «Más información» de la ficha ya carga siempre y en un par de segundos, con el tráiler y el estudio de cada temporada o película.",
+    "version": "1.8.2",
+    "build": 2018,
+    "notes": "- Nuevo botón «Reparto» en el reproductor: pausa el capítulo y te enseña los personajes de la temporada que ves, con foto, papel y actor de voz, sin destripes.\n- Los tráileres de «Más información» se abren en el navegador de Aniken en lugar de la app de YouTube.",
     "assets": {
       "arm64-v8a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-arm64-v8a.apk",
-        "sha256": "2a0f421fc90b7a4a301e4ace01203b61fed76858fe3fc5e28552208ad4754634"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-arm64-v8a.apk",
+        "sha256": "444798d18b7e9001a2daed3938fed4a016e2104e83ac86f4df502ecf233c8ddd"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-armeabi-v7a.apk",
-        "sha256": "3a3956f50d442d65cb327a305f1aba504644b5826867456b6a14619519a771be"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-armeabi-v7a.apk",
+        "sha256": "6ea2d811fa4877713dd553d84a0b1e7c27795535d34320f68d644a594e9371e4"
       },
       "x86_64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.1/aniken-1.8.1-x86_64.apk",
-        "sha256": "34677267b3ad1e5c3d3908dc515812826fdc59e3301b6bb7b2a2481d30ee5762"
+        "url": "https://github.com/kennethdavidlopezg-dotcom/aniken-config/releases/download/v1.8.2/aniken-1.8.2-x86_64.apk",
+        "sha256": "085c3ff30138a6ec9a6bc06581bd21e486edc62b3dfe3ce344de5c42e7999891"
       }
     }
   }
